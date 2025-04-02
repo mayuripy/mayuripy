@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Contact-App](https://github.com/mayuripy/contact-app)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **chaudharimayuri2004@gmail.com**
 
