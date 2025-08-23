@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayuripy" alt="mayuripy" /></a> </p>
 
-- 🔭 I’m currently working on [Contact-App](https://github.com/mayuripy/contact-app)
+- 🔭 I’m currently working on [Treading Crypto](https://github.com/mayuripy/contact-app)
 
 - 🌱 I’m currently learning **Spring Boot**
 
