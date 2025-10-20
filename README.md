@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Treading_Crypto](https://github.com/mayuripy/Treading_Crypto)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot and Docker**
 
 - 📫 How to reach me **chaudharimayuri2004@gmail.com**
 
